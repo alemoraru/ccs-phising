@@ -1,4 +1,4 @@
 pandas
 matplotlib
-selenium
-webdriver_manager
+selenium==4.25.0
+webdriver-manager
